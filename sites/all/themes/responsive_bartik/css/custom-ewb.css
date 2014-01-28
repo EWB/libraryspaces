@@ -46,11 +46,11 @@ body, #site-slogan, .ui-widget, .comment-form label {
 }
 /*ewb custom overrides to colors.css*/
 
-#header {
+/*#header {
   background-color: #205f84;
   background-image: none;
  
-}
+}*/
 
 #main-menu-links li a.active, #main-menu-links li.active-trail a {
     background: none repeat scroll 0 0 #666666;
