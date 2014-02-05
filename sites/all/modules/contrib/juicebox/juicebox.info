@@ -16,9 +16,9 @@ files[] = plugins/JuiceboxXmlField.inc
 files[] = plugins/JuiceboxXmlViewsStyle.inc
 files[] = plugins/JuiceboxFormatterViewsStyle.inc
 
-; Information added by Drupal.org packaging script on 2014-01-26
-version = "7.x-2.0-beta4"
+; Information added by Drupal.org packaging script on 2014-01-28
+version = "7.x-2.0-beta5"
 core = "7.x"
 project = "juicebox"
-datestamp = "1390757909"
+datestamp = "1390925911"
 

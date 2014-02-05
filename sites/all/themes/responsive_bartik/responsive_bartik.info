@@ -12,6 +12,7 @@ stylesheets[all][] = css/custom-ewb.css
 scripts[] = js/collapsible-menu.js
 
 regions[header] = Header
+regions[navigation] = Navigation
 regions[help] = Help
 regions[page_top] = Page top
 regions[page_bottom] = Page bottom

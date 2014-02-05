@@ -142,7 +142,10 @@
 
     <?php print render($page['header']); ?>
 
-    <?php if ($main_menu): ?>
+   
+  </div></header> <!-- /.section, /#header -->
+<!--  ewb moved main-menu--> 
+<?php if ($main_menu): ?>
       <nav id="main-menu" role="navigation" class="navigation">
         <?php print theme('links__system_main_menu', array(
           'links' => $main_menu,
@@ -158,8 +161,6 @@
         )); ?>
       </nav> <!-- /#main-menu -->
     <?php endif; ?>
-  </div></header> <!-- /.section, /#header -->
-
   <?php if ($messages): ?>
     <div id="messages"><div class="section clearfix">
       <?php print $messages; ?>
